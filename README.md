@@ -1,11 +1,11 @@
-About rastervision-core
-=======================
+About rastervision-core-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rastervision-core-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/azavea/raster-vision
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rastervision-core-feedstock/blob/main/LICENSE.txt)
 
 Summary: A rastervision plugin that adds geospatial machine learning pipelines
 
