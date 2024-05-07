@@ -1,5 +1,5 @@
 {% set name = "rastervision-core" %}
-{% set version = "0.21.1" %}
+{% set version = "0.30.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/rastervision_core-{{ version }}.tar.gz
-  sha256: bc1dbcfe04fb0e4aec9d0ea5680f69c995907aa1a12101593958be44590824ae
+  sha256: adc178562c7dd22ab470e6d16bf7e32e527eff51c7d129696983a18a40a3e6fe
   patches:
     - 0001-fix-imports.patch
 
